@@ -33,3 +33,9 @@ Tornado governance proposal for multisig funding.
 ```
     npx hardhat run scripts/deploy.js --network mainnet
 ```
+
+3. Verify on Etherscan:
+
+```
+    yarn hardhat verify --network mainnet <contract-address>
+```
