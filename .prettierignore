@@ -1,0 +1,9 @@
+.vscode
+.idea
+.github
+cache
+artifacts
+build
+dist
+coverage
+coverage.json
